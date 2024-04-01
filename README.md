@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudiptodata
+- 👋 Hi, I’m Sudipto Kumar Mahato @sudiptodata
 - 👀 I’m interested in Data Science, AI, Machine learning, and deep learning
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI and Data science
